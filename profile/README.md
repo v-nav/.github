@@ -1,4 +1,4 @@
-## V-NAV <inline style="font-size: 8pt;">visual navigation</inline>
+## V-NAV <inline style="font-size: 5pt; font-weight: lighter;">visual navigation</inline>
 
 ### Team:
 - Vasily Yuryev
