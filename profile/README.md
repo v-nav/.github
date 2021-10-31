@@ -1,5 +1,9 @@
-## V-NAV
+## V-NAV <inline style="font-size: 8pt;">visual navigation</inline>
 
+### Team:
+- Vasily Yuryev
+- Artem Batalov
+- Nikita Loktev
 <!--
 
 **Here are some ideas to get you started:**
